@@ -25,7 +25,7 @@ Check it out on Netlify:
 
 ## 📸 Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpeg)
 
 ## 📚 What I Learned
 
